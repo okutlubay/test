@@ -11,6 +11,7 @@ namespace ClassLibrary1
     {
         public Class1()
         {
+            // this is some change
         }
     }
 }
